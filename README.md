@@ -1,2 +1,1 @@
-# Module-5-Coding-Assignment
-Module 5 Coding Assignment https://www.coursera.org/learn/html-css-javascript-for-web-developers
+https://kr999is.github.io/Module-5-Coding-Assignment/
